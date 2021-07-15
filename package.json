@@ -1,0 +1,16 @@
+{
+  "name": "courses",
+  "version": "1.0.0",
+  "description": "A demo of a basic app.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Blip",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "nodemon": "^2.0.12"
+  }
+}
